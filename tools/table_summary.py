@@ -1,4 +1,4 @@
-from langchain_core.tools import tool
+from langchain.tools import tool
 from langchain_aws import ChatBedrock
 
 claude = ChatBedrock(
@@ -14,4 +14,4 @@ def table_summary_tool(text: str) -> str:
     prompt = f"다음을 표 형식으로 요약해줘. 마크다운 형태로 출력해줘:\n{text}"
     response = claude.invoke(prompt)
     return response.content
-
+table_summary_tool.name = "table"

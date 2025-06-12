@@ -14,4 +14,4 @@ def text_summary_tool(text: str) -> str:
     prompt = f"다음을 간결하게 줄글로 요약해줘:\n{text}"
     response = claude.invoke(prompt)
     return response.content
-
+text_summary_tool.name = "text"

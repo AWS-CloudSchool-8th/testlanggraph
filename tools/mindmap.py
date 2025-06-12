@@ -1,4 +1,4 @@
-from langchain_core.tools import tool
+from langchain.tools import tool
 from langchain_aws import ChatBedrock
 
 claude = ChatBedrock(
@@ -17,4 +17,4 @@ def mindmap_tool(text: str) -> str:
 """
     response = claude.invoke(prompt)
     return response.content
-
+mindmap_tool.name = "mindmap"

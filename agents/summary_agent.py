@@ -9,10 +9,10 @@ from tools.mindmap import mindmap_tool
 
 # Claude용 System + Human Prompt
 prompt = ChatPromptTemplate.from_messages([
-    ("system", "너는 다양한 요약 도구(text, table, image, mindmap)를 사용할 수 있는 AI 비서야. 사용자의 요청에 따라 적절한 도구를 선택해서 요약해."),
+
+    ("system", "너는 text, table, image, mindmap 중에서 하나를 선택해. 절대로 다른 말 하지 말고, 딱 도구 이름(text, table, image, mindmap)만 답변해."),
     ("human", "{input}")
 ])
-
 # Claude LLM 선언
 llm = ChatBedrock(
     model_id="anthropic.claude-3-sonnet-20240229-v1:0",
@@ -27,6 +27,9 @@ tools = [
     mindmap_tool
 ]
 
+for tool in tools:
+    print("등록된 tool name:", tool.name)
+
 # Claude에 tool 사용 방법을 넣기 위한 Runnable 구성
 def get_agent_executor():
     tool_map = {tool.name: tool for tool in tools}
@@ -35,17 +38,17 @@ def get_agent_executor():
         tool_name = inputs["tool"]
         chunk = inputs["input"]
         if tool_name in tool_map:
-            return tool_map[tool_name].invoke({"input": chunk})
+            return tool_map[tool_name].invoke({"text": chunk})
         else:
             return f"[ERROR] Unknown tool: {tool_name}"
 
-    return RunnableSequence(
-        prompt,
-        llm,
-        lambda x: {
-            "tool": x.content.strip().lower(),
-            "input": x.additional_kwargs.get("input", "")
-        },
-        RunnableLambda(call_tool_and_return_result)
-    )
+    return RunnableLambda(call_tool_and_return_result)
+#        prompt,
+#        llm,
+#        lambda x: {
+#            "tool": x.content.strip().lower(),
+#            "input": x.additional_kwargs.get("input", "")
+#        },
+#        RunnableLambda(call_tool_and_return_result)
+#    )
 

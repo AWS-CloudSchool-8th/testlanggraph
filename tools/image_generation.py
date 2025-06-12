@@ -47,4 +47,4 @@ def image_generation_tool(text: str) -> str:
         return f" Titan Image 생성 완료 → {save_path}"
     except Exception as e:
         return f" Titan Image 생성 실패: {e}"
-
+image_generation_tool.name = "image"
