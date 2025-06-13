@@ -10,15 +10,9 @@ prompt_template = PromptTemplate.from_template("""
 
 {caption}
 
-이 자막을 의미 단위(주제별, 내용 흐름별)로 나누고, 각 의미 덩어리에 대해 아래 중 어떤 요약 방식이 가장 적절할지 판단해줘(복수 선택 가능).
-요약 방식만 판단해주고, 절대 너가 요약하지마. 
-- text: 줄글 요약이 적절한 경우
-- table: 의미 덩어리가  구조화된 비교·분류·나열일 경우
-- mindmap: 마인드맵으로 시각화하면 좋을 경우
-- image: 시각적으로 나타낼 수 있는 설명
-- audio: 배경음악이나 음향 효과 관련 내용인 경우
-
-각 의미단위의 **시작 시간, 끝 시간**을 추정해서 다음 JSON 형식으로 출력해줘:
+이 자막을 **내용 흐름**이나 **주제**별로 나누고, 각 부분마다 아래 도구 중 어떤 요약 방식이 적절할지 판단해줘.  
+**절대 요약하지 말고**, **도구 판단만 해줘**.  
+각 의미단위의 **시작 시간, 끝 시간**을 추정해서 다음 JSON 형식으로 출력해줘줘:
 [
   {{
     "chunk": "[at 0.00 seconds] ~ [at 77.00 seconds] 내용",
@@ -26,6 +20,17 @@ prompt_template = PromptTemplate.from_template("""
   }},
   ...
 ]
+
+
+도구 설명:
+- "text": 일반적인 설명이나 줄글로 표현하기 좋은 경우
+- "table": 분류, 비교, 나열처럼 구조화된 정보
+- "mindmap": 중심 개념에서 가지를 뻗는 형식이 적절할 때
+- "image": 시각적으로 보여주면 좋을 설명일 때
+
+이 외에는 아무 말도 하지 마!  
+형식은 반드시 JSON 배열로만 답해줘.  
+절대 요약하지 마! 예시도 들지 마!                                               
 """)
 
 def extract_json_from_response(response: str):
@@ -61,4 +66,6 @@ def analyze_caption(caption: str):
     print(response.content)
     print("==== ↑ 응답 끝 ====")
     return extract_json_from_response(response.content)
+
+
 

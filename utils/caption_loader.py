@@ -2,7 +2,7 @@ import boto3
 
 def load_caption_from_s3(bucket_name: str, key: str) -> str:
     """
-    S3에서 caption.txt 파일을 불러와 문자열로 반환
+    S3에서 caption 파일을 불러와 문자열로 반환
     """
     s3 = boto3.client("s3")
 

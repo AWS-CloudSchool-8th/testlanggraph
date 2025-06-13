@@ -7,7 +7,9 @@ bedrock_claude = ChatBedrock(
     region="us-east-1",
     credentials_profile_name=None,
     model_kwargs={
-        "temperature": 0.5
+        "temperature": 0.1,
+        "top_p": 0.9,
+        "stop_sequences": ["\n\nHuman:"],  # Claude의 문맥 구분 트리거
     }
 )
 

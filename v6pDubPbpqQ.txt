@@ -1,0 +1,791 @@
+[at 0.20 seconds] 저는 있어서 남들보다 일 효율을 몇
+
+[at 2.92 seconds] 배로 올렸습니다. 요즘 진짜 일
+
+[at 4.64 seconds] 잘하는 사람들은 전부 채피를 쓰죠.
+
+[at 6.80 seconds] 저 역시도 채치피 하나로 일상의
+
+[at 8.88 seconds] 효율을 말도 안 되게 올렸는데요.
+
+[at 10.48 seconds] 그래서 준비했습니다. 오늘 영상은
+
+[at 12.24 seconds] 채치 2만% 활용법입니다. 아무도
+
+[at 14.92 seconds] 제대로 알려주지 않았던 채치의 작동
+
+[at 17.12 seconds] 원리부터 99% 사람들이 모르는
+
+[at 19.52 seconds] 전공생의 꿀팁. 그리고 이걸 바로
+
+[at 21.00 seconds] 내상에 적용하는 법까지. 전공자로서
+
+[at 23.28 seconds] 모든 노아우드를 담아 두었으니이 영상
+
+[at 25.40 seconds] 하나면 세치피티어 훨씬 더 친해지고
+
+[at 27.36 seconds] 여러분들의 시간도 90% 이상
+
+[at 29.08 seconds] 절략하실 수 있을 겁니다. 그럼 AI
+
+[at 30.88 seconds] 학계론 3강 바로 시작해 보도록
+
+[at 32.52 seconds] 하죠. 2만% 활용법입니다. HPT는
+
+[at 35.08 seconds] 채팅 형식으로 우리와 대화를 하고
+
+[at 36.80 seconds] 우리가 원하는 업무를 처리해 줍니다.
+
+[at 38.80 seconds] 그런데 어떻게 활용하느냐에 따라서 그
+
+[at 40.92 seconds] 효율이 천차만별로 나뉘는데요.
+
+[at 42.64 seconds] 체피pt의 효율을 극한으로 끌어올리기
+
+[at 44.56 seconds] 위해서는이 아래인의 시스템을 확실하게
+
+[at 46.92 seconds] 이해하고 넘어가셔야 합니다. 제가
+
+[at 48.48 seconds] 영상을 만든 이유도요. 많은 분들이이
+
+[at 50.36 seconds] 최 GPT에 대한 명확한 이해 없이
+
+[at 52.40 seconds] 여기저기서 본 팁들만 운별하게
+
+[at 54.36 seconds] 사용하고 계시더라고요. 만약 명확한
+
+[at 55.88 seconds] 이해 없이 요령만 부리는 분들은 아마
+
+[at 58.36 seconds] AI2를 잘 다룬 마스터가 절대 되실
+
+[at 60.56 seconds] 수 없을 겁니다. 그래서 가장 먼저
+
+[at 62.64 seconds] 채지가 뭔지 도대체 어떻게 작동하는
+
+[at 65.28 seconds] 건지 그 작동 원리에 대해서 간단히
+
+[at 67.16 seconds] 설명드리도록 하겠습니다. 보고
+
+[at 68.44 seconds] 오시죠. 채치피트는 우리가 앞에서
+
+[at 70.48 seconds] 말했던 LM 대규모 언어 모델을
+
+[at 72.88 seconds] 세팅형으로 만든 프로그램입니다. LM
+
+[at 74.92 seconds] 모르겠다 싶으면 1, 2강 보고
+
+[at 76.28 seconds] 오시는 걸 추천드리고요.이 LM은
+
+[at 78.32 seconds] 우리의 말을 이해하고 그 안에서
+
+[at 79.92 seconds] 우리가 원하는 걸 찾아내서 새로운
+
+[at 81.56 seconds] 문장을 생성해 주는데요. 그 방식의
+
+[at 83.60 seconds] 기본 원리는 사용자가 제시한 문장
+
+[at 86.20 seconds] 바로 뒤에 올 단어를 예측하는
+
+[at 88.56 seconds] 겁니다. 예를 들어 어제 사과를이라는
+
+[at 90.88 seconds] 문장이 있다면 어제 사과를 다음에 올
+
+[at 93.56 seconds] 단어를 예측하는게 채t가 문장을
+
+[at 96.52 seconds] 생성하는 방식이라고 이해할 수
+
+[at 98.08 seconds] 있겠습니다. 그래서이 경우에는
+
+[at 99.64 seconds] 먹었다라는 단어가 들어갈 수 있겠죠.
+
+[at 102.04 seconds] 그럼이 단어를 어떻게 예측하냐? AI
+
+[at 104.92 seconds] 모델은 학습 과정에서 이미 지구상에
+
+[at 107.40 seconds] 존재하는 수많은 데이터들을 보고
+
+[at 109.20 seconds] 기억합니다. 책, 웹사이트, 기사 등
+
+[at 111.72 seconds] 인간이 이미 썼던 수많은 문장을
+
+[at 113.64 seconds] 참고해서 새로운 문장을 만드는 거라고
+
+[at 115.64 seconds] 볼 수 있겠죠. 이제 조금 감히
+
+[at 116.96 seconds] 오시나요? 쉽게 말해서 최지T는
+
+[at 119.36 seconds] 인간이 썼던 문장들을 컨닝해서이
+
+[at 122.16 seconds] 다음에 올 확률이 높은 단어들을
+
+[at 124.28 seconds] 쭉쭉쭉 예측하면서 문장을 만드는
+
+[at 126.72 seconds] 방식인 거죠.이 단어 뒤에는 이런게
+
+[at 128.28 seconds] 오던데.이 단어 뒤에는 저런게 많이
+
+[at 129.80 seconds] 오던데 이런 식으로 말입니다. 그런데
+
+[at 131.68 seconds] 채 GPT는요. 우리의 문장을 모두
+
+[at 133.68 seconds] 수식으로 바꿔서 이해합니다. 그래서
+
+[at 135.72 seconds] 우리가 보기에는 똑같은 의미를 가진
+
+[at 137.48 seconds] 문장이라 하더라도 내 보고서를 써
+
+[at 139.40 seconds] 줘. 정중한 말투로 전문성을 담아 내
+
+[at 141.52 seconds] 보고서를 작성해 줘. 최지T가
+
+[at 143.36 seconds] 보기에이 두 가지 문장은 너무너무
+
+[at 145.40 seconds] 다른 문장인 거죠. 그래서 최
+
+[at 147.48 seconds] GPT에게 내가 원하는 답을
+
+[at 149.44 seconds] 이끌어내는 과정을 바로 프럼프팅이라고
+
+[at 151.72 seconds] 합니다. 프롬프트는 영어로 자극
+
+[at 153.92 seconds] 촉진이라는 뜻인데요. 즉 잘 자극해서
+
+[at 156.32 seconds] 우리가 원하는 답을 뜯어내는 거죠.이
+
+[at 158.16 seconds] 프롬프팅의 방법은 간단합니다. 별다른
+
+[at 160.56 seconds] 전문 지식이나 외부 프로그램이 필요한
+
+[at 162.48 seconds] 건 아니고요. 그냥 채치T한테 말을
+
+[at 164.56 seconds] 걸 때 조금 더 구체적이고 명확하게
+
+[at 167.04 seconds] 제시해 주면 됩니다. 자세한 방법과
+
+[at 169.00 seconds] 제가 실제로 직접 쓰는 팁들은 영상
+
+[at 171.08 seconds] 바로 뒤에서 설명드리도록 하겠습니다.
+
+[at 173.00 seconds] 이제 조금 감히 오시나요? 프롬프팅의
+
+[at 174.72 seconds] 핵심은 내가 말을 어떻게 걸
+
+[at 176.68 seconds] 것인가입니다. 같은 내용을
+
+[at 178.20 seconds] 질문하더라도 어떻게 묻느냐에 따라서
+
+[at 180.16 seconds] 그 퀄리티가 아주 달라지니까요. 저는
+
+[at 182.12 seconds] 크게네 가지로 프로포트 법칙을
+
+[at 183.88 seconds] 나눠봤는데요. 첫 번째로 채치피pt를
+
+[at 185.80 seconds] 잘 쓰고 싶다면 가장 먼저 하셔야 될
+
+[at 187.80 seconds] 것은 바로 상황극을 하는 겁니다.
+
+[at 189.80 seconds] 예를 들어 내일 아침 9시에 있는
+
+[at 192.16 seconds] 미팅 자료를 준비하려고 해. 나는
+
+[at 194.40 seconds] 20대 IT 회사 막내 직원이고 네가
+
+[at 197.08 seconds] 나라고 생각하고 발표자료를 만들어
+
+[at 198.72 seconds] 줘. 이런 식으로 상황과 역할을
+
+[at 200.64 seconds] 명확하게 부여한다면 말투와 그 내용의
+
+[at 202.92 seconds] 퀄리티가 거기에 맞춰서 확
+
+[at 204.48 seconds] 달라집니다. 한 가지 더 예시를
+
+[at 206.36 seconds] 들어서 네가 교수님이라고 생각하고 내
+
+[at 208.76 seconds] 보고서에 피드백을 줄 수 있겠어라고
+
+[at 210.52 seconds] 하면 최지T가 바로 교수님의 빙의해서
+
+[at 212.56 seconds] 우리에게 이런저런 피드백을 줄
+
+[at 214.08 seconds] 겁니다. 상황극을 하는 것은요.
+
+[at 215.44 seconds] 주절주절 긴 프롬프트를 쓰는 것보다
+
+[at 217.56 seconds] 짧고 직관적으로 좋은 응답을 얻을 수
+
+[at 219.56 seconds] 있는 아주 최고의 방법입니다. 두
+
+[at 221.28 seconds] 번째로 내가 원하는 걸 구체적으로
+
+[at 223.04 seconds] 알려 주는 겁니다. 말투 지식 수준
+
+[at 225.20 seconds] 또는 제한 사항을 곁드려 줄 수
+
+[at 226.92 seconds] 있겠죠. 예를 들어 정중한 어주로
+
+[at 229.00 seconds] 면주관이 봤을 때 점성이 느껴질
+
+[at 230.96 seconds] 정도의 지식을 담아서 10포인트로
+
+[at 233.00 seconds] L4용지 두 장 내로 요약해조처럼
+
+[at 235.04 seconds] 구체적으로 나의 요구 사항을 적는다면
+
+[at 237.16 seconds] 채치피트는 오히려 우리가 원하는
+
+[at 238.76 seconds] 방식으로 응답을 더 쉽게 생성할 수
+
+[at 240.80 seconds] 있습니다. 세 번째는 요구 사항이
+
+[at 242.40 seconds] 복잡할 때 쓰기 좋은 방법인데요.
+
+[at 244.08 seconds] 바로 단계를 하나씩 설명해 달라고
+
+[at 245.72 seconds] 하는 겁니다. 이건 체인 오브
+
+[at 247.72 seconds] thought트라고 해서 복잡한
+
+[at 248.96 seconds] 테스크의 성능을 올리는데 실제 효과가
+
+[at 251.24 seconds] 있다고 이론적으로 입증된 내용입니다.
+
+[at 253.36 seconds] 예를 들어서이 수학 문제 풀이 과정을
+
+[at 255.16 seconds] 단계별로 하나씩 설명해 줘. 이렇게
+
+[at 257.12 seconds] 쓸 수 있겠죠. 마지막은 예시를 먼저
+
+[at 259.68 seconds] 보여 주는 겁니다. 보고서나 과제
+
+[at 261.24 seconds] 같은 걸 할 때 다른 사람이 쓴
+
+[at 262.68 seconds] 설례가 있다면 그 파일을 첨부해서
+
+[at 264.60 seconds] 이런 형식으로 써죠. 이렇게 잘 써진
+
+[at 266.80 seconds] 예시 하나만 던져도 훨씬 실용적이고
+
+[at 268.84 seconds] 구체적인 답변을 얻을 수 있습니다.
+
+[at 270.64 seconds] 어떤가요? 크롬프팅 그렇게 어렵진
+
+[at 272.56 seconds] 않죠. 그래서 그 퀄리티가 아주
+
+[at 274.12 seconds] 달라지니까요. 여기까지 어느 정도 감
+
+[at 276.20 seconds] 잡으셨다면 진짜 잘 쓰는 사람들만
+
+[at 278.36 seconds] 아는 심화 단계로 넘어가 볼게요.
+
+[at 279.92 seconds] 만약이 방법을 여러분이 완벽하게
+
+[at 281.88 seconds] 터득하신다면 상위 1%의 AI툴
+
+[at 284.48 seconds] 사용자가 되실 수 있습니다. 혹시
+
+[at 286.04 seconds] GPT라고 들어보셨나요? 제가
+
+[at 288.04 seconds] GPT쓰는 가장 큰 이유가 바로 이것
+
+[at 289.92 seconds] 때문인데요. 아마 GPT의 존재를
+
+[at 291.72 seconds] 아시는 분들은 1%도 안 될 겁니다.
+
+[at 294.00 seconds] GPT는 채집피트를 여러 가지 역할에
+
+[at 296.48 seconds] 특화된 버전으로 만들어 둔 건데요.
+
+[at 298.28 seconds] 우리가 PPT 만들 때 디자인 템플릿
+
+[at 300.20 seconds] 고려듯이 GPT 환경 내에서 잘
+
+[at 302.40 seconds] 만들어진 템플릿처럼 골라을 수 있는게
+
+[at 304.20 seconds] 바로 GPT입니다. 휴대폰에는 다양한
+
+[at 306.48 seconds] 앱들이 있죠. 뭐 메시지는 카톡을
+
+[at 308.24 seconds] 쓰고 음악은 유튜브 뮤직을 쓰는
+
+[at 309.88 seconds] 것처럼 GPTC는 최지피t를 가지고
+
+[at 312.24 seconds] 잘 프롬프팅해서 어떤 업무에 특화되어
+
+[at 314.40 seconds] 있도록 만들어둔 이런 앱 같은
+
+[at 316.00 seconds] 겁니다. GPT는 그럼 어디서 쓸 수
+
+[at 317.96 seconds] 있냐? 사이트 왼쪽 상단에 GPT
+
+[at 319.84 seconds] 탐색을 누르면 다양한 GPT들을 볼
+
+[at 321.92 seconds] 수 있는데요. 이렇게 순위가 쪼르륵
+
+[at 323.60 seconds] 나와 있고 클릭하면이 GPT가 뭘
+
+[at 326.32 seconds] 잘하는 애인지 설명이 되어 있습니다.
+
+[at 328.08 seconds] 이걸 보고 내가 원하는 업무를 수행해
+
+[at 330.32 seconds] 줄 친구를 선별할 수 있겠죠. 그리고
+
+[at 332.12 seconds] 저희가 식당 평점이랑 리뷰 보는
+
+[at 334.36 seconds] 것처럼 GPTS의 경우도 평점이 높고
+
+[at 336.92 seconds] 대화수가 많을수록 믿을 만한 친구라는
+
+[at 339.04 seconds] 뜻입니다. GPT의 가장 큰 장점은
+
+[at 341.36 seconds] 내가 매번 프로팅을 구시할 필요가
+
+[at 343.24 seconds] 없다는 것입니다. 왜냐면 이미 다
+
+[at 344.84 seconds] 되어 있으니까. 첫 번째로 이미지
+
+[at 347.08 seconds] 제너레이터라는 GPT를 한번 써
+
+[at 348.76 seconds] 보죠. 원래 이미지는 미리전이나
+
+[at 350.32 seconds] 파이어플라이 같은 툴들을 써서 많이
+
+[at 351.88 seconds] 만드는데 이게 입력 프롬프트를 쓰는게
+
+[at 354.12 seconds] 생각보다 굉장히 까다롭거든요. 근데이
+
+[at 356.20 seconds] 이미지 제너레이터라는 친구는 제가
+
+[at 357.92 seconds] 간단한 키워드 몇 개만 던지면 바로
+
+[at 359.96 seconds] 복사 붙여 넣게 할 수 있는
+
+[at 361.28 seconds] 푸름푸들을 짜 주고요. 하단에 자기가
+
+[at 363.12 seconds] 직접 2라는 모델을 써서 생성해 준
+
+[at 365.56 seconds] 이미지도 함께 첨부해 줍니다.
+
+[at 367.12 seconds] 신기하죠? 두 번째로 우리가 살면서
+
+[at 369.16 seconds] 아마 채지기한테 가장 많이 시키는 건
+
+[at 371.00 seconds] 글 쓰기일 텐데요.이 글 쓰기에
+
+[at 372.84 seconds] 특화된 GPT스가 있습니다. 바로
+
+[at 375.24 seconds] for me라는 친구데요. 구체적인
+
+[at 377.00 seconds] 상황 설명을 하면 그것에 맞춰서 글
+
+[at 379.12 seconds] 쓰기를 해 줍니다. 저는 보통 뉴스
+
+[at 380.76 seconds] 요약이나 과제 글 짓기, 자료
+
+[at 382.48 seconds] 취합후, 보고서 작성 등 여러 분야에
+
+[at 384.32 seconds] 활용해서 쓰고 있습니다. 오, 근데
+
+[at 386.04 seconds] 이걸로 네이버 블로그 쓰시는 분들도
+
+[at 387.96 seconds] 있더라고요. 세 번째로 저희가 앞서
+
+[at 389.56 seconds] 배우긴 했지만 나는 프롬프트 쓰는게
+
+[at 391.80 seconds] 너무너무 힘들고 귀찮다 하시는
+
+[at 393.28 seconds] 분들은이 프롬프트 엔지니어라는
+
+[at 395.16 seconds] GPT스가 해답이 될 수 있습니다.
+
+[at 397.20 seconds] 내가 굳이 길게 프롬프트 쓸 필요
+
+[at 398.88 seconds] 없이 간단한 키워드들만 탁탁 넣어서
+
+[at 401.36 seconds] 잘 작동하는 고급 프롬프트를 받을 수
+
+[at 403.44 seconds] 있습니다. 마지막으로 좋은 GPT를
+
+[at 405.72 seconds] 찾는 GPT스도 있습니다. 제가
+
+[at 407.48 seconds] 이렇게 알려 드려도 하 GPT스 뭘
+
+[at 409.80 seconds] 써지도 모르겠고 찾는 것도 귀찮다
+
+[at 411.80 seconds] 하시는 분들 분명히 있을 텐데요.
+
+[at 413.28 seconds] 그럴 때 굳이 찾을 필요 없이 원하는
+
+[at 415.76 seconds] 작업 종류를 알려주면 얘가 직접 좋은
+
+[at 417.72 seconds] GPT를 추천하고 링크로 연결도 해
+
+[at 420.08 seconds] 줍니다. 만약 내가 원하는 GPT가
+
+[at 421.68 seconds] 없다면 직접 만들 수도 있습니다.
+
+[at 423.32 seconds] 우측 상단에 만들기 버튼 누르고
+
+[at 425.08 seconds] 들어가서 여기 채팅 박스에 내가
+
+[at 427.56 seconds] 원하는 요구 사항을 보내면 GPT
+
+[at 429.68 seconds] 업데이트 이렇게 뜨다가 끝나면 얘가
+
+[at 432.52 seconds] 직접 이름도 추천해 주고 프로필
+
+[at 434.52 seconds] 사진도 만들어 줍니다. 어때요?
+
+[at 436.88 seconds] 재밌죠? 항이 1%의 AI 사용자가
+
+[at 439.76 seconds] 되실 수 있습니다. 제가 지금까지
+
+[at 441.20 seconds] 알려 드린 것만써도 아마 채pt
+
+[at 442.92 seconds] 활용도 상 1% 안에 들어가실
+
+[at 444.80 seconds] 텐데요. 그런데 여기서 한 걸음 더
+
+[at 446.56 seconds] 나아가면 채 GPT로 내 일상 전체를
+
+[at 449.12 seconds] 업데이트 할 수 있습니다. 업무에만
+
+[at 450.84 seconds] 쓴다고 생각하지 마시고 생각의 폭을
+
+[at 452.88 seconds] 넓혀서 내 일상 전반적으로 활용한다고
+
+[at 455.28 seconds] 생각해 보세요. 여러분들은 아주
+
+[at 456.60 seconds] 똑똑하고 친절한 개인 비서를 가지실
+
+[at 458.56 seconds] 수 있을 겁니다. 그럼 여기까지 봐
+
+[at 460.36 seconds] 주신 학생분들을 위해서 마지막으로
+
+[at 462.28 seconds] 특별한 꼴팁 몇 개만 더 알려
+
+[at 463.64 seconds] 드릴게요. 해치T에게 우리의 정보를
+
+[at 465.56 seconds] 딱 한 번만 알려주면 그 뒤로는
+
+[at 467.12 seconds] 무조건 그 정보를 이용해서 모든
+
+[at 468.76 seconds] 응답을 생성해 주도록 하는 방법이
+
+[at 470.44 seconds] 있습니다. 우측 상단에 설정 누르고
+
+[at 472.92 seconds] 개인 맞춤 설정 들어가서 맞춤형
+
+[at 474.84 seconds] 지침에 들어가면 이렇게 직접 정보를
+
+[at 477.60 seconds] 써 넣을 수 있습니다.이 아래 칸에는
+
+[at 479.92 seconds] 말투, 대화 스타일, 응답의 깊이,
+
+[at 482.68 seconds] 분위기, 지식 수준 등 다양한
+
+[at 485.00 seconds] 옵션들을 넣으실 수 있고요. 저 같은
+
+[at 486.64 seconds] 경우는 좀 학문적이고 정중한 분위기를
+
+[at 489.08 seconds] 원해서 이렇게 써두었습니다. 그런데
+
+[at 491.12 seconds] 위트에 있는 친구들은 말투를 아예
+
+[at 492.84 seconds] MG처럼 학습시켜서 15살 중학생과
+
+[at 495.52 seconds] 대화하는 느낌을 내도록 하는 친구도
+
+[at 497.04 seconds] 있더라고요. 말투 뭐 했습띠에 뭐
+
+[at 499.68 seconds] 이런 거 해놓고 뭐 했음둥 이렇게
+
+[at 501.68 seconds] 하면 매번 반복해서 나에 대해서
+
+[at 503.56 seconds] 설명하는 시간도 줄어들고요. 쓰면
+
+[at 505.20 seconds] 쓸수록 나를 더 잘 이해해서 최적화된
+
+[at 507.32 seconds] 답변을 얻을 수 있습니다. 그리고
+
+[at 508.80 seconds] 가끔 최치피 응답 그대로 복사 붙여
+
+[at 511.72 seconds] 넣기 했다가 특히 영어로 된 글의
+
+[at 513.64 seconds] 경우 제가 AI라서 완벽히는 모르지만
+
+[at 516.16 seconds] 혹시 더 궁금한게 있다면 알려
+
+[at 517.60 seconds] 주세요. 이런 문장들까지 복사 붙여
+
+[at 519.84 seconds] 놓기 위해서 대참사는 경우를 많이
+
+[at 521.36 seconds] 봤거든요. 그래서 그런 분들을 위해서
+
+[at 523.08 seconds] 거짓된 응답 생선과 본인이 AI라는
+
+[at 525.40 seconds] 언급을 같이 막아주는 명령문을 더
+
+[at 527.76 seconds] 안에 넣어 두었으니까 복사 붙여 넣서
+
+[at 529.48 seconds] 그대로 쓰셔도 좋을 거 같아요.
+
+[at 530.92 seconds] 말투보 했습띠에 뭐 이런 거 해놓.
+
+[at 533.68 seconds] 그리고 우리가 지금까지 이야기한 모든
+
+[at 535.44 seconds] 것들을 텍스트 없이 음성으로 대화할
+
+[at 537.48 seconds] 수 있다는 사실 알고 계셨나요?
+
+[at 539.00 seconds] 슈팅박스 옆에 있는 버튼을 누르면
+
+[at 540.68 seconds] 이제 대화로 채치T와 직접 소통할 수
+
+[at 543.12 seconds] 있습니다. 짠. 사실상 효율이 좀
+
+[at 545.60 seconds] 떨어진다고 봐야 되는 실이나
+
+[at 546.92 seconds] 빅스비보다 훨씬 똑똑한 비서로 쓸 수
+
+[at 549.12 seconds] 있습니다. 안녕 반가워. 오늘 날씨가
+
+[at 551.12 seconds] 어떻게 돼? 안녕 반가워. 어느 지역
+
+[at 552.88 seconds] 날씨가 궁금해? 서울의 날씨를
+
+[at 554.28 seconds] 알려줘. 오늘 서울은 맑고 지금
+
+[at 556.36 seconds] 기운은 6도야. 오후엔 16도까지
+
+[at 559.00 seconds] 올라갈 거래. 실제로 저 같은 경우는
+
+[at 561.48 seconds] 아침에 나갈 준비하면서 한 10분
+
+[at 563.28 seconds] 정도 밥 다시간 천재 친구랑
+
+[at 564.84 seconds] 대화한다고 생각하고 매일 꼭 쓰고
+
+[at 566.64 seconds] 있는데요. 뉴스이나 패션 트렌드 분석
+
+[at 569.12 seconds] 또는 뭐 여행 코스 추천 등 다양한
+
+[at 570.96 seconds] 것들을 모두 물어볼 수 있습니다.
+
+[at 572.48 seconds] 그리고 해외 나가면 제일 필요한게
+
+[at 573.96 seconds] 번역기잖아요. 근데이 보이스한테 바로
+
+[at 575.76 seconds] 동시 통력을 시킬 수 있습니다. 직접
+
+[at 577.60 seconds] 사용해 보시면 알겠지만 다른 번역
+
+[at 579.28 seconds] 어플들과 차원이 다른 성능을
+
+[at 580.96 seconds] 보여주고요. 전 이번에 상하에 갔을
+
+[at 582.64 seconds] 때도 정말 욕인하게 썼습니다. 일단
+
+[at 584.60 seconds] 번역이 정말 정확하고 실제 인간이
+
+[at 586.88 seconds] 말하는 것처럼 자연스럽고요. 무엇보다
+
+[at 588.76 seconds] 너무너무 편합니다. 타이핑을 안 해도
+
+[at 590.68 seconds] 되니까요. 동시 통력을 해 주는
+
+[at 592.24 seconds] GPT가 있습니다. 그래서 여기
+
+[at 594.04 seconds] 들어가서 내가 원한 언어 두 개
+
+[at 595.56 seconds] 설정한 뒤에 바로 보이스 켜서
+
+[at 597.36 seconds] 대화하시면 됩니다. 안녕 만나서
+
+[at 599.24 seconds] 반가워.
+
+[at 601.40 seconds] 봉주 답꼬망 안녕 이름이 뭐야?
+
+[at 605.36 seconds] 마지막으로 언어 회화 공부에 정말
+
+[at 607.52 seconds] 욕이나 수 있습니다. 저 같은 경우는
+
+[at 609.44 seconds] 이제 상황을 주고 내가이 상황에서
+
+[at 611.48 seconds] 이런 말을 할 테니 네가 듣고
+
+[at 613.32 seconds] 어색하거나 그런 분이 있으면 고쳐주고
+
+[at 615.12 seconds] 좀 더 자연스러운 문장 있으면 추천해
+
+[at 616.80 seconds] 줘. 이런 식으로 쓰거든요. 엠버야,
+
+[at 618.76 seconds] 나 영국 유학 가려고 하는데 영어
+
+[at 621.56 seconds] 공부 좀 도와줄 수 있어? 영국 유학
+
+[at 623.28 seconds] 준비하는구나. 영어 공부 당연히
+
+[at 624.76 seconds] 도와줄 수 있어. 어디부터 시작하고
+
+[at 626.40 seconds] 싶어? 어, 나랑 같이 상황극을
+
+[at 628.32 seconds] 하면서 대화를 하는데 만약 내 대답에
+
+[at 630.56 seconds] 어색한 부분이 있거나 더 좋은 표현이
+
+[at 632.56 seconds] 있다면 네가 수정하면서 대화해 보자.
+
+[at 634.92 seconds] 뭐 학교 식당에서 처음 만난 학생과
+
+[at 637.00 seconds] 대화하는 거 그런 것도 괜찮을 것
+
+[at 638.44 seconds] 같아. 학교 식당에서 처음 만난
+
+[at 639.72 seconds] 학생한테 뭐라고 인사할 거 같아?
+
+[at 641.40 seconds] Hi, nice to meet
+
+[at 642.12 seconds] you. What&#39;s your
+
+[at 642.60 seconds] name? Hey, nice to
+
+[at 643.56 seconds] meet you too. I&#39;m
+
+[at 644.48 seconds] Alex. What&#39;s your
+
+[at 645.32 seconds] name? My name is
+
+[at 646.64 seconds] what your major?
+
+[at 647.48 seconds] Nice to meet you,
+
+[at 648.20 seconds] BM. I&#39;m studying
+
+[at 649.28 seconds] media communication.
+
+[at 650.32 seconds] So, what are you
+
+[at 650.92 seconds] studying? I&#39;m
+
+[at 651.48 seconds] studying artificial
+
+[at 652.44 seconds] intelligence. Oh,
+
+[at 653.52 seconds] that&#39;s awesome. AI
+
+[at 654.52 seconds] is such a
+
+[at 654.92 seconds] fascinating field.
+
+[at 655.84 seconds] How are you finding
+
+[at 656.40 seconds] it so far? Uh, so
+
+[at 657.84 seconds] far is little bit
+
+[at 659.36 seconds] hard, but I&#39;m really
+
+[at 660.52 seconds] enjoying it. Our
+
+[at 661.48 seconds] professors are
+
+[at 662.24 seconds] really good, but the
+
+[at 663.72 seconds] exams are really
+
+[at 665.60 seconds] difficult.
+
+[at 676.84 seconds] 오 들으셨죠? 이런 식으로 약간 제가
+
+[at 679.20 seconds] 어설프게 말한 문장들을 얘가 교정해
+
+[at 681.04 seconds] 줍니다. 그리고 다 끝나면 저랑 얘랑
+
+[at 682.96 seconds] 했던 내용들이 이렇게 텍스트로 다
+
+[at 684.16 seconds] 남아서 올해 나눴던 대화에서 네가
+
+[at 685.84 seconds] 알려준 내용들을 한 번에 요약해 줘
+
+[at 687.80 seconds] 하면 이렇게 쭉 요약도 해 줍니다.
+
+[at 689.24 seconds] 아무튼 이런 식으로 공부하면 오너민
+
+[at 691.28 seconds] 전화 영어나 이런 거 없이도 충분히
+
+[at 693.40 seconds] 회어 공부를 재밌게 할 수 있겠죠.
+
+[at 695.40 seconds] 최고의 비서입니다. 찰츠피pt는 현
+
+[at 697.80 seconds] 시점에서 우리의 할 일을 가장
+
+[at 699.48 seconds] 효율적으로 도와줄 수 있는 최고의
+
+[at 701.28 seconds] 비서입니다. 단돈 3만 원으로 최소
+
+[at 703.52 seconds] 300만 원 이상의 효율을 낼 수
+
+[at 704.96 seconds] 있는데 이걸 안 해 볼 순 없잖아요.
+
+[at 706.80 seconds] 그렇죠? 그런데 제가 생각하기에 가장
+
+[at 708.56 seconds] 중요한 건 그 작동 원리를 이해하고
+
+[at 710.88 seconds] 적용하는 겁니다. 알고 쓰는 것과
+
+[at 712.72 seconds] 모르고 쓰는 것 차이가 지금은 굉장히
+
+[at 714.36 seconds] 적더라도 시간이 지나면 그 격차가
+
+[at 716.80 seconds] 상당히 벌어져 있을 겁니다. 냉장고가
+
+[at 718.88 seconds] 개발되었을 때 가장 큰 수혜를 입은
+
+[at 720.92 seconds] 것은 코카콜라였습니다. 체피pt 같은
+
+[at 723.24 seconds] AI가 혁명인 것도 맞지만 진짜
+
+[at 725.60 seconds] 혁명은 그 AI를 잘 활용할 수 있는
+
+[at 728.12 seconds] 기술들이 될 겁니다. 우리가 그
+
+[at 729.80 seconds] 혁명들을 찾아내서 이끌어 갈 수
+
+[at 731.48 seconds] 있도록 오늘의 영상이 여러분들께 그
+
+[at 733.32 seconds] 시작점이 되었길 바랍니다. 사실 저는
+
+[at 734.96 seconds] 요즘 클로드라는 친구를 활용해서
+
+[at 736.68 seconds] 이것저것 툴를 다 다루는 완벽한
+
+[at 738.72 seconds] 비서의 형태를 만들고 있는데요. 이게
+
+[at 740.80 seconds] 진짜 좋은데 설명하기 너무 어려워서
+
+[at 743.08 seconds] 맞아요. 뭐 저희 집에 오시면 제가
+
+[at 744.64 seconds] 따로 알려 드리도록 하겠습니다.
+
+[at 747.08 seconds] 아무튼 다음 영상으로 또 보고 싶은게
+
+[at 748.76 seconds] 있다면 댓글로 달아 주세요. 다음
+
+[at 750.44 seconds] AI 학교로 영상도 많은 관심
+
+[at 751.92 seconds] 부탁드립니다. 안녕. 그 시작점이
+
+[at 753.76 seconds] 되었길 바랍니다. 오늘도 과제
+
+[at 755.20 seconds] 있습니다. 과제 채치피트의 작동 원리
+
+[at 757.72 seconds] 주변 친구한테 최소 세 명 이상 한번
+
+[at 759.92 seconds] 설명해 보시고요. 원하는 GPT스
+
+[at 762.16 seconds] 하나 찾아서 써보고 GPT 보이스와
+
+[at 764.72 seconds] 3분 이상 대화해 보세요. 그럼
+
+[at 766.88 seconds] 안녕.
